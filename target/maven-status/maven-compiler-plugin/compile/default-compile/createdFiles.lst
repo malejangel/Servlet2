@@ -1,0 +1,5 @@
+com\mycompany\primerservlet\dao\ActaDao.class
+com\mycompany\primerservlet\JakartaRestConfiguration.class
+com\mycompany\primerservlet\models\Acta.class
+com\mycompany\primerservlet\resources\JakartaEE8Resource.class
+com\mycompany\primerservlet\servlets\ActaServlet.class
